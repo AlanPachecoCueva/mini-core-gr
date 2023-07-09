@@ -1,4 +1,5 @@
 #Mini core ing web
+
 En este proyecto se desarrolla la práctica de mini core, en la cual se tiene dos colecciones guardadas en Firebase, una para ventas y otra para usuarios.
 De esta manera, en un proyecto de React.JS para el front, se consumen los datos y se filtran las ventas realizadas por los usuarios y se muestra la sumatoria.
 
